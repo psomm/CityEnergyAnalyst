@@ -211,7 +211,7 @@ CH database.
 
 | Parameter   | Description   | Method  |
 |---   |---   |---  |
-| `Descriptio`  | Description of code | |
+| `Description`  | Description of code | |
 | `code` | Assembly code used used in ENVELOPE_ASSEMBLIES |  |
 | `Cm_Af` | Internal heat capacity per unit of area [J/K·m2] | Standard value used for TABULA buildings and unit conversion from 45 Wh/m2·K to J/m2·K |
 
